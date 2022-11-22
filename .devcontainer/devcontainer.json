@@ -1,0 +1,8 @@
+{
+	"name": "Node.js & TypeScript",
+	"image": "mcr.microsoft.com/devcontainers/typescript-node:16-bullseye",
+	"features": {
+		"ghcr.io/devcontainers/features/aws-cli:1": {}
+	},
+	"remoteUser": "root"
+}

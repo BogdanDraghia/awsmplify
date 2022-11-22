@@ -1,0 +1,10 @@
+{
+  "resourceName": "dynamodb",
+  "tableName": "counter_table",
+  "partitionKey": {
+    "fieldName": "counter_column",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
